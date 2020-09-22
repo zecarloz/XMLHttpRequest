@@ -1,0 +1,24 @@
+body{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(209, 194, 194);
+    
+}
+.form{
+    background: rgb(201, 225, 245);
+    
+}
+.form input {
+   width: 98%;
+   height: 25px;
+   background-color: rgb(198, 238, 230);
+}
+#demo{
+    width: 50%;
+}
+#botao{
+    height: 35px;
+}
+#borda{
+    border: dodgerblue 5px solid;
+}
