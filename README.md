@@ -21,5 +21,5 @@
 1.0.0.0
 ## Authors
 * José carlos (https://github.com/zecarloz)
-###  Siga o github e junte-se a nós!
+###  Siga-me no github e junte-se a nós!
 #### Obrigado pela visita e boa codificação!
