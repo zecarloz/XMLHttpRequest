@@ -18,7 +18,7 @@
 - Repository: https://github.com/zecarloz/XMLHttpRequest.git
 
 ## Versão
-1.0.0.0
+1.0.0
 ## Authors
 * José carlos (https://github.com/zecarloz)
 ###  Siga-me no github e junte-se a nós!
