@@ -10,8 +10,8 @@
 ## Getting started
 
 ## para rodar op projeto :
-* Clone o repositorio 
-* Abra no browse
+* Clone o repositorio .
+* Abra no browse .
 
 ## Links
 
