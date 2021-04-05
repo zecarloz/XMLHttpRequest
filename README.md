@@ -9,9 +9,9 @@
 
 ## Getting started
 
-## para rodar op projeto :
+## para rodar op projeto
 * Clone o repositorio .
-* Abra no browse .
+* Abra no browse 
 
 ## Links
 
