@@ -1,10 +1,10 @@
 # XMLHttpRequest
-* Objetivo: estudar e entender o fluxo do objeto XMLHttpRequest .
+* Objetivo: estudar e entender o fluxo do objeto XMLHttpRequest.
 
 ## Technologias usadas:
 
-* Javascript
-* Html 5
+* Javascript.
+* Html 5.
 
 
 ## Getting started
